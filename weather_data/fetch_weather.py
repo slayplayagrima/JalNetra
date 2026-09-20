@@ -27,7 +27,7 @@ def fetch_location(row):
     location_id = row["Location_ID"]
     requested_lat = float(row["Latitude"])
     requested_lon = float(row["Longitude"])
-
+    query_time = datetime.now().astimezone().isoformat(timespec="seconds")
     params = {
         "key": API_KEY,
         "q": f"{requested_lat},{requested_lon}",
@@ -109,7 +109,7 @@ def fetch_location(row):
         "Location_ID": location_id,
         "Requested_Latitude": requested_lat,
         "Requested_Longitude": requested_lon,
-
+        "Weather_Query_Time": query_time,
         "Matched_Location": location["name"],
         "Matched_Latitude": location["lat"],
         "Matched_Longitude": location["lon"],
