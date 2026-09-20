@@ -1,0 +1,41 @@
+Location_ID,Road_Segment_ID,Road_Name,Road_Type,Road_Length_m,Road_Width_m,From_Node,To_Node,Nearest_Road_Distance_m,Road_Owner,Road_Maintainer,Ward,Sector,Zone,Road_Source,Data_Quality,Data_Quality
+H01,25,Dividing Road 10A/37/37A,MCG,1980,30,Hero Honda Chowk,Basai Chowk,57,MCG,HUDA-IV,24,37,1,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H02,25,Dividing Road 10A/37/37A,MCG,1980,30,Hero Honda Chowk,Basai Chowk,27.3,MCG,HUDA-IV,24,37,1,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H03,94,Jharsa Road (CR Model School chowk to Mor Chowk via DDR Chowk),MCG,2200,13.4,CR Model School Chowk,Mor Chowk junction with Civil Lines Road,253.3,MCG,MCG,28,31,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H04,97,NH-8 to Mahavir Chowk via Maharana Pratap Chowk,MCG,3860,30,NH-8 IFFCO Chowk,Mahavir Chowk,581,MCG,MCG,34,29,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H05,94,Jharsa Road (CR Model School chowk to Mor Chowk via DDR Chowk),MCG,2200,13.4,CR Model School Chowk,Mor Chowk junction with Civil Lines Road,402.9,MCG,MCG,28,31,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H06,41,"M/R 44/52, 45/52, 46/51",HUDA,3000,30,Ardee City Chowk,T Point Sec 47,89.5,HUDA,HUDA-V,32,46,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H07,36,"Dividing Road 50/51, 50/57",HUDA,1470,30,Mayfield Garden,Village Tigra,378.1,HUDA,HUDA-VI,29,47,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H08,14,Village Ghata to Faridabad Road,Way To Ghata,2100,60,Village Ghata,Fbd Road,22.9,HUDA,HUDA-I,30,58,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H09,42,M/R 57 I&2,HUDA,1600,30,T Point Sec51,SPR,312,HUDA,HUDA-V,29,57,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H10,55,30 Part,HUDA,575,30,Sec 31,South City,132.4,HUDA,HUDA-III,32,30,4,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H11,906,Outer Road of Sec 24/25A,HUDA,4500,150,"Shankar Chowk,NH 8",Bio-Diversity Park,454.9,HUDA,HUDA,34,,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H12,3,Mehrauli Gurgaon Road,Mehrauli Gurgaon Road,5000,30,IFFCO Chowk,Delhi Border,215.2,HUDA,HUDA-I,34,29,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H13,2,HUDA,HUDA,9800,60,NH-8,Sec-55/56,16.3,HUDA,HUDA-I,30,58,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H14,98,Old Delhi Road to SIrhaul NH8 (Aanath Road),MCG,2400,30,Old Delhi Road,Sirhaul,8.5,MCG,MCG,5,18,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H15,59,17/18,HUDA,2200,30,Old Delhi Road,NH 8,285.6,HUDA,HUDA-III,34,17,3,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H16,91,Mahavir Chowk to Kapashera Border via Atul Kataria Chowk (Old Delhi Road),MCG,7600,60,Kapashera Delhi Border,Mahavir Chowk,11.8,MCG,MCG,5,14,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H17,923,21/22/23,HUDA,1350,24,Sec 21,Sec 22/23,2,HUDA,HUDA,3,23,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H18,51,Master Road between Old NH 8 to Rezangla Chowk,Major Sushil Aaima Marg,2800,30,Old NH 8,Rezangla Chowk,80.7,HUDA,HUDA-II,3,1,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H19,49,Mastere Road between Sec 21/22,HUDA,750,30,Old NH 8,T Point of Sec 21/22,200.7,HUDA,HUDA-II,3,23,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+H20,96,Mata Road (Atul Kataria Chowk to Ranzengla Chowk via Sector-05 Road),MCG,7040,30,Atul Kataria Chowk,Rezang La Chowk,26.2,MCG,MCG,3,1,2,GMDA Road Network,Official GIS; distance calculated from road geometry,
+C1,25,Dividing Road 10A/37/37A,MCG,Not provided,2180.69,30,Hero Honda Chowk,Basai Chowk,15,MCG,HUDA-IV,24,37,1,ArcGIS Road GIS,Official GIS polyline
+C2,25,Dividing Road 10A/37/37A,MCG,Not provided,2180.69,30,Hero Honda Chowk,Basai Chowk,27,MCG,HUDA-IV,24,37,1,ArcGIS Road GIS,Official GIS polyline
+C3,94,Jharsa Road (CR Model School chowk to Mor Chowk via DDR Chowk),MCG,Not provided,2211.64,13.4,CR Model School Chowk,Mor Chowk junction with Civil Lines Road,253,MCG,MCG,28,31,4,ArcGIS Road GIS,Official GIS polyline
+C4,97,NH-8 to Mahavir Chowk via Maharana Pratap Chowk,MCG,Not provided,5428.23,30,NH-8 IFFCO Chowk,Mahavir Chowk,581,MCG,MCG,34,29,3,ArcGIS Road GIS,Official GIS polyline
+C5,94,Jharsa Road (CR Model School chowk to Mor Chowk via DDR Chowk),MCG,Not provided,2211.64,13.4,CR Model School Chowk,Mor Chowk junction with Civil Lines Road,403,MCG,MCG,28,31,4,ArcGIS Road GIS,Official GIS polyline
+C6,41,"M/R 44/52, 45/52, 46/51",HUDA,Not provided,2773.42,30,Ardee City Chowk,T Point Sec 47,89,HUDA,HUDA-V,32,46,4,ArcGIS Road GIS,Official GIS polyline
+C7,36,"Dividing Road 50/51, 50/57",HUDA,Not provided,2645.69,30,Mayfield Garden,Village Tigra,378,HUDA,HUDA-VI,29,47,4,ArcGIS Road GIS,Official GIS polyline
+C8,14,Village Ghata to Faridabad Road,Way To Ghata,Not provided,2961.4,60,Village Ghata,Fbd Road,23,HUDA,HUDA-I,30,58,3,ArcGIS Road GIS,Official GIS polyline
+C9,42,M/R 57 I&2,HUDA,Not provided,1924,30,T Point Sec51,SPR,312,HUDA,HUDA-V,29,57,4,ArcGIS Road GIS,Official GIS polyline
+C10,55,30 Part,HUDA,Not provided,786.14,30,Sec 31,South City,132,HUDA,HUDA-III,32,30,4,ArcGIS Road GIS,Official GIS polyline
+C11,44,M/R 52/57,HUDA,Not provided,1795.88,30,Y point Sec 51/52/57,"Botanical gaerden Chowk Sec 52, 52A, 56 & 57",733,HUDA,HUDA-V,29,51,4,ArcGIS Road GIS,Official GIS polyline
+C12,69,Between Sec 61/62 & 60/63 (CRPF camp Road),HUDA,Not provided,1935.6,60,SPR,CRPF Camp Road,444,HUDA,HUDA-I,29,57,4,ArcGIS Road GIS,Official GIS polyline
+C13,65,"Between Sec 62/65, 63/64",HUDA,Not provided,2842.03,60,SPR,Sec 63/64,521,HUDA,HUDA-I,29,50,4,ArcGIS Road GIS,Official GIS polyline
+C14,65,"Between Sec 62/65, 63/64",HUDA,Not provided,2842.03,60,SPR,Sec 63/64,452,HUDA,HUDA-I,29,50,4,ArcGIS Road GIS,Official GIS polyline
+C15,66,Between Sec 64/65,HUDA,Not provided,1725.55,60,Sec 62/63,Sec 66/67,672,HUDA,HUDA-I,26,66,4,ArcGIS Road GIS,Official GIS polyline
+C16,13,Sohna Road to Village Ghata,HUDA,Not provided,7148.54,60,Sohna Road,Village ghata,723,HUDA,HUDA-I,29,48,4,ArcGIS Road GIS,Official GIS polyline
+C17,500,Between Sec 66/67,HUDA,Not provided,1306.27,60,Sec 66/67,Sec 64/65,529,HUDA,HUDA,26,66,4,ArcGIS Road GIS,Official GIS polyline
+C18,15,Southern Peripheral Road from Sohna Road to Rambir Dhani,HUDA,Not provided,2436.1,90,Sohna Road,Rambir ki Dhani,538,HUDA,HUDA-I,26,69,4,ArcGIS Road GIS,Official GIS polyline
+C19,Not available,Not available,Not available,Not provided,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+C20,Not available,Not available,Not available,Not provided,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available

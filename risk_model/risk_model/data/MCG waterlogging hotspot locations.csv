@@ -1,0 +1,21 @@
+ID,Location,Latitude,Longitude,Elevation (m),MCG hotspot,MCG documented cause,Source,
+H01,"Sector 10A Market, Gate 7",28.43887,77.005661,221,Yes,Silt in drain,MCG,
+H02,"Sector 10A, Gate 5",28.444206,76.99975,220,Yes,Silt in drain,MCG,
+H03,"Sector 15 Part II, Citizen Park",28.454574,77.042674,227,Yes,Low-lying area,MCG,
+H04,"Bandh Road, Sector 15 Part II",28.460984,77.042014,226,Yes,Low-lying area,MCG,
+H05,"Jubilee Park, Sector 31",28.453822,77.045449,229,Yes,Low-lying area / adjoining area,MCG,
+H06,Sector 46,28.434887,77.064065,231,Yes,Low-lying area,MCG,
+H07,Sector 57,28.417193,77.074298,234,Yes,Low-lying area,MCG,
+H08,Village Ghata Underpass,28.42204,77.1096,248,Yes,Low-lying area,MCG,
+H09,Sector 57 Part 1,28.420603,77.074107,234,Yes,Storm drainage cleaning required,MCG,
+H10,Silokhera Village Road,28.458293,77.060052,236,Yes,Overflow of main GMDA line,MCG,
+H11,Near Budwala Booster,28.488572,77.102205,251,Yes,"Water drain out through sewer line, no master drain is available in adjoining area.",MCG,MCG
+H12,Nathupur near Harijan Basti,28.48003,77.099612,251,Yes,Water logging occurs due to road level difference.,MCG,MCG
+H13,Sikanderpur entry from Bristol Chowk,28.479154,77.094202,248,Yes,"It is a low laying area, no storm water drain is available in adjoining area.",MCG,MCG
+H14,Sarhol mod sector -18 T point,28.492295,77.058738,229,Yes,"Low laying area, GMDA has constructed storm water drain along Sanath road, but cleaning of storm water drain is required.",MCG,MCG
+H15,Indian oil service road sector 18,28.481765,77.072026,237,Yes,"Water logging due to low laying area, storm water drain is silt up and damaged condition.",MCG,MCG
+H16,In front of H.no-1128 sector 21,28.501758,77.067002,232,Yes,Water logging occurs due to blockage of GMDA storm water drain.,MCG,MCG
+H17,Near radha krishna mandir h.no-335 sector 21,28.512149,77.067662,230,Yes,Water logging occurs due to blockage of GMDA storm water drain.,MCG,MCG
+H18,Near Delhi gate pocket C sector 21,28.50193,77.061334,230,Yes,Water logging occurs due to blockage of GMDA storm water drain.,MCG,MCG
+H19,In fornt of community centre sector 22 B,28.508526,77.066475,229,Yes,Water logging occurs due to blockage of GMDA storm water drain.,MCG,MCG
+H20,A block Plam vihar near Macdy,28.504993,77.03767,221,Yes,Water logging due to low laying area.,MCG,MCG

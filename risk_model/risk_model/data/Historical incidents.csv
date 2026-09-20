@@ -1,0 +1,41 @@
+ID,Location,Historical Waterlogging,Historical Incident Source,Historical Cause
+H01,"Sector 10A Market, Gate 7",1,MCG 2025 hotspot list,Silt in drain
+H02,"Sector 10A, Gate 5",1,MCG 2025 hotspot list,Silt in drain
+H03,"Sector 15 Part II, Citizen Park",1,MCG 2025 hotspot list,Low-lying area
+H04,"Bandh Road, Sector 15 Part II",1,MCG 2025 hotspot list,Low-lying area
+H05,"Jubilee Park, Sector 31",1,MCG 2025 hotspot list,Low-lying area in green belt of NH-8 and adjoining area
+H06,Sector 46,1,MCG 2025 hotspot list,Low-lying area
+H07,Sector 57,1,MCG 2025 hotspot list,Low-lying area
+H08,Village Ghata Underpass,1,MCG 2025 hotspot list,Low-lying area
+H09,Sector 57 Part 1,1,MCG 2025 hotspot list,Storm drainage cleaning required
+H10,Silokhera Village Road,1,MCG 2025 hotspot list,Overflow of main GMDA line
+H11,Near Budwala Booster,1,MCG 2025 hotspot list,Water drains out through sewer line; no master drain available in adjoining area
+H12,Nathupur near Harijan Basti,1,MCG 2025 hotspot list,Waterlogging due to road level difference
+H13,Sikanderpur entry from Bristol Chowk,1,MCG 2025 hotspot list,Low-lying area; no stormwater drain available in adjoining area
+H14,Sarhol Mod Sector-18 T Point,1,MCG 2025 hotspot list,Low-lying area; stormwater drain along Sanath Road requires cleaning
+H15,Indian Oil Service Road Sector 18,1,MCG 2025 hotspot list,Low-lying area; stormwater drain silted and damaged
+H16,In front of H.No-1128 Sector 21,1,MCG 2025 hotspot list,Blockage of GMDA stormwater drain
+H17,Near Radha Krishna Mandir H.No-335 Sector 21,1,MCG 2025 hotspot list,Blockage of GMDA stormwater drain
+H18,Near Delhi Gate Pocket C Sector 21,1,MCG 2025 hotspot list,Blockage of GMDA stormwater drain
+H19,In front of Community Centre Sector 22B,1,MCG 2025 hotspot list,Blockage of GMDA stormwater drain
+H20,A Block Palam Vihar near Macdy,1,MCG 2025 hotspot list,Low-lying area
+C01,"Sector 29 Market area, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C02,"Golf Course Road, Sector 53",NULL,No MCG hotspot listing found,Unknown
+C03,"Golf Course Road, Sector 54 / Business Tower area",NULL,No MCG hotspot listing found,Unknown
+C04,"Ullawas Village, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C05,"Sector 37D, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C06,"Sector 29 / Shakti Travels area, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C07,"DLF Cyber City, Phase 3 / DLF Tower 10 Road",NULL,No MCG hotspot listing found,Unknown
+C08,"1601 Golf Course Road, DLF Phase 5, Sector 43",NULL,No MCG hotspot listing found,Unknown
+C09,"Genpact Chowk, DLF Phase 5, Sector 53",NULL,No MCG hotspot listing found,Unknown
+C10,"Leisure Valley Park, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C11,"Sector 52, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C12,"Sector 61, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C13,"Sector 62, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C14,"Sector 63, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C15,"Sector 64, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C16,"Sector 66, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C17,"Sector 67, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C18,"Sector 69, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C19,"Sector 71, Gurugram",NULL,No MCG hotspot listing found,Unknown
+C20,"Sector 72, Gurugram",NULL,No MCG hotspot listing found,Unknown

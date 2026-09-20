@@ -1,0 +1,41 @@
+ID,Location,Rainfall Jun 1–Sep 18 2026 (mm),Max Hourly Rainfall (mm) 2026,Rainfall 2024 (mm),Max Hourly Rain 2024 (mm),Rainfall 2025 (mm),Max Hourly Rain 2025 (mm),Source,Data Quality
+H01,"Sector 10A Market, Gate 7",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H02,"Sector 10A, Gate 5",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H03,"Sector 15 Part II, Citizen Park",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H04,"Bandh Road, Sector 15 Part II",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H05,"Jubilee Park, Sector 31",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H06,Sector 46,593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+H07,Sector 57,593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+H08,Village Ghata Underpass,593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+H09,Sector 57 Part 1,593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+H10,Silokhera Village Road,556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+H11,Near Budwala Booster,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H12,Nathupur near Harijan Basti,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H13,Sikanderpur entry from Bristol Chowk,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H14,Sarhol mod sector -18 T point,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H15,Indian oil service road sector 18,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H16,In front of H.no-1128 sector 21,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H17,Near radha krishna mandir h.no-335 sector 21,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H18,Near Delhi gate pocket C sector 21,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H19,In fornt of community centre sector 22 B,597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+H20,A block Plam vihar near Macdy,571.4,14.4,791.5,23.9,552,14.3,Open-Meteo nearest-point proxy,Proxy
+C01,"Sector 29 Market area, Gurugram",597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+C02,"Golf Course Road, Sector 53",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C03,"Golf Course Road, Sector 54 / Business Tower area",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C04,"Ullawas Village, Gurugram",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C05,"Sector 37D, Gurugram",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+C06,"Sector 29 / Shakti Travels area, Gurugram",597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+C07,"DLF Cyber City, Phase 3 / DLF Tower 10 Road",597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+C08,"1601 Golf Course Road, DLF Phase 5, Sector 43",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C09,"Genpact Chowk, DLF Phase 5, Sector 53",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C10,"Leisure Valley Park, Gurugram",597.2,10.5,879.6,27.3,567,17.9,Open-Meteo nearest-point proxy,Proxy
+C11,"Sector 52, Gurugram",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C12,"Sector 61, Gurugram",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C13,"Sector 62, Gurugram",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C14,"Sector 63, Gurugram",593.4,11.6,880.7,28.4,583.3,14.8,Open-Meteo nearest-point proxy,Proxy
+C15,"Sector 64, Gurugram",581,13.2,838.1,23,599.7,17.1,Open-Meteo nearest-point proxy,Proxy
+C16,"Sector 66, Gurugram",581,13.2,838.1,23,599.7,17.1,Open-Meteo nearest-point proxy,Proxy
+C17,"Sector 67, Gurugram",581,13.2,838.1,23,599.7,17.1,Open-Meteo nearest-point proxy,Proxy
+C18,"Sector 69, Gurugram",581,13.2,838.1,23,599.7,17.1,Open-Meteo nearest-point proxy,Proxy
+C19,"Sector 71, Gurugram",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
+C20,"Sector 72, Gurugram",556.3,11.3,802.2,29.2,559.8,19.8,Open-Meteo nearest-point proxy,Proxy
